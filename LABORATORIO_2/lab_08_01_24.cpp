@@ -1,3 +1,4 @@
+//elaborar un programa que a partir de numero de dias, calcule los años, meses y dias que contiene, asi mismo indicar el mes en el recae
 #include <iostream>
 using namespace std;
 

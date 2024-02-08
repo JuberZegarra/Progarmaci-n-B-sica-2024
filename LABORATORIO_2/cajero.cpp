@@ -1,3 +1,4 @@
+//elaborar un programa que simule las opciones de un cajero automatico
 #include <iostream>
 
 using namespace std;
